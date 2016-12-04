@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wideo</string>
+    <string name="my_group_name">CMSC355 Wideo Group</string>
+    <string name="record">Record</string>
+    <string name="settings">Settings</string>
+    <string name="gallery">Play Video</string>
+    <string name="quit">Exit</string>
+    <string name="friend_list">Invite Friend</string>
+    <string name="title_activity_quality">quality</string>
+    <string name="title_activity_flash">Flash</string>
+    <string name="share">Share Video</string>
+    <string name="send_to">Send To</string>
+    <string name="delete">Delete</string>
+    <string name="map">Map</string>
+</resources>
